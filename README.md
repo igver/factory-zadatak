@@ -1,9 +1,9 @@
 # factory-zadatak
 
-Zadatak
+**Zadatak**
 Potrebno je napraviti Slider koristeći HTML, CSS ili SASS, jQuery tehnologije.
 
-Funkcionalnost
+**Funkcionalnost**
 Potrebno je napraviti slider koji će pomicati slike u lijevo ili desno ovisno na koju
 strelicu korisnik klikne. Slike se trebaju pomaknuti za širinu desne (zadnje) slike u
 nizu. Važno je da pomicanje slika bude kroz animaciju!
