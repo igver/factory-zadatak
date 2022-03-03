@@ -1,4 +1,4 @@
-# factory-zadatak
+# Zadatak
 
 **Zadatak**
 Potrebno je napraviti Slider koristeći HTML, CSS ili SASS, jQuery tehnologije.
