@@ -23,6 +23,7 @@ povlači oba reda istovremeno.
 - Korišten transpiler Babeljs te minificiran output.
 
 
+
 **Github page**
 
 - Kreirana Github stranica projekta - [factory-zadatak-bootstrap](https://igver.github.io/factory-zadatak-bootstrap/)
