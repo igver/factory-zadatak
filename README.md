@@ -22,7 +22,7 @@ povlači oba reda istovremeno.
 - Javascript logika dorađena(Vanilla logika zamjenjena sa JQUERYem)
 - Korišten transpiler Babeljs te minificiran output.
 
-
+_______
 
 **Github page**
 
