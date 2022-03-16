@@ -15,6 +15,8 @@ Slider je beskonačan, u smislu da će na prvo mjesto uvijek dolaziti slike koje
 izašle iz viewporta. To se odnosi na svaki red posebno. Klik na jednu strelicu
 povlači oba reda istovremeno.
 
+_______
+
 **Nadodano**
 
 - Dodana tranzicija na navigaciju slidera.
