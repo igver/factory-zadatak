@@ -21,3 +21,5 @@ povlači oba reda istovremeno.
 - Korištenje SASS preprocesora te minificiran output.
 - Javascript logika dorađena(Vanilla logika zamjenjena sa JQUERYem)
 - Korišten transpiler Babeljs te minificiran output.
+
+
