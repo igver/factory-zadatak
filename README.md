@@ -26,4 +26,4 @@ _______
 
 **Github page**
 
-- Kreirana Github stranica projekta - [factory-zadatak-bootstrap](https://igver.github.io/factory-zadatak-bootstrap/)
+Kreirana Github stranica projekta - [factory-zadatak-bootstrap](https://igver.github.io/factory-zadatak-bootstrap/)
